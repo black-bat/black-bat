@@ -1,4 +1,4 @@
-![Header](https://github.com/black-bat/black-bat/blob/main/assets/13.3.gif)
+![Header](https://github.com/black-bat/black-bat/blob/main/assets/1.5(1200x259).gif)
 
 ## About me: I'm a small cog in a big java machine
 
